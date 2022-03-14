@@ -4,6 +4,9 @@
 This is a minimalist react app where draw an hourglass based on input an show for you. 
 The hourglass has a minimal size 20.
 
+## Time
+![Time of development](https://github.com/WRCrys/hourglass-drawer/blob/main/Timesheet.png)
+
   
 
 ## Technologies and libraries
